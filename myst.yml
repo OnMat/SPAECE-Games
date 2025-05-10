@@ -6,7 +6,7 @@ project:
   title: SPAECE Games
   subject: SPAECE Games
   description: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
-  license: CC-BY-1.0
+  license: MIT
 
   keywords:
     - SPAECE
