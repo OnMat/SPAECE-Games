@@ -27,7 +27,7 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - title: Habilidades
+    - title: Jogos
       children:
         - file: numeros-e-funcoes/index.md
           children:
