@@ -14,8 +14,6 @@ project:
     - baixo custo
     - ensino médio
     
-  language: pt_BR
-
   github: https://github.com/OnMat/SPAECE-Games
   
   plugins:
@@ -27,7 +25,7 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - title: Jogos
+    - file: jogos.md
       children:
         - file: numeros-e-funcoes/index.md
           children:
