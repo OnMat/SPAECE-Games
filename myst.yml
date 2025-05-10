@@ -1,0 +1,56 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: ab22083f-5871-4237-95e1-c2006f9feea5
+
+  title: SPAECE Games
+
+  description: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
+
+  keywords:
+    - SPAECE
+    - jogo concreto
+    - baixo custo
+    - ensino médio
+
+  authors:
+    - name: Anna Beatriz Bezerra Rodrigues Alves de Oliveira 
+
+  github: https://github.com/OnMat/SPAECE-Games
+
+  toc:
+    - file: index.md
+    - file: orientacoes.md
+    - title: Habilidades
+      children:
+        - file: numeros-e-funcoes/index.md
+          children:
+            - file: numeros-e-funcoes/jogo1.md
+            - file: numeros-e-funcoes/jogo2.md
+            - file: numeros-e-funcoes/jogo3.md
+        - file: geometria/index.md
+          children:
+            - file: geometria/jogo4.md
+            - file: geometria/jogo5.md
+        - file: medidas/index.md
+          children:
+            - file: medidas/jogo6.md
+            - file: medidas/jogo7.md
+            - file: medidas/jogo8.md
+            - file: medidas/jogo9.md
+        - file: informacao/index.md
+          children:
+            - file: informacao/jogo10.md
+            - file: informacao/jogo11.md
+            - file: informacao/jogo12.md
+    - file: sobre.md
+
+  exclude:
+    - README.md
+    - LICENSE
+
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
