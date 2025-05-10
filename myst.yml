@@ -4,19 +4,25 @@ project:
   id: ab22083f-5871-4237-95e1-c2006f9feea5
 
   title: SPAECE Games
-
+  subject: SPAECE Games
   description: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
+  license: CC-BY-1.0
 
   keywords:
     - SPAECE
     - jogo concreto
     - baixo custo
     - ensino médio
-
-  authors:
-    - name: Anna Beatriz Bezerra Rodrigues Alves de Oliveira 
+    
+  language: pt_BR
 
   github: https://github.com/OnMat/SPAECE-Games
+  
+  plugins:
+    - src/xref.mjs
+    - src/landing-page.mjs
+    - src/directives.mjs
+    - src/admonition.mjs
 
   toc:
     - file: index.md
@@ -51,6 +57,11 @@ project:
 
 site:
   template: book-theme
-  # options:
+  options:
+    style: public/style.css
+    logo: public/logo.svg
+    folders: true
+  actions:
+    - title: GitHub
+      url: https://github.com/OnMat/SPAECE-Games
   #   favicon: favicon.ico
-  #   logo: site_logo.png
