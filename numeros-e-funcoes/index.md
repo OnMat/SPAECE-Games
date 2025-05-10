@@ -10,5 +10,5 @@ Não esqueça de...
 
 Confira os jogos desta seção a seguir.
 
-```{tableofcontents}
+```{contents}
 ```
