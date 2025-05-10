@@ -1,4 +1,8 @@
-# Título do jogo
+---
+title: Título do Jogo
+subject: Convivendo com a Geometria
+---
+
 
 Breve descrição do jogo...
 

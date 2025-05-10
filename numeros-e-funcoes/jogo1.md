@@ -1,4 +1,7 @@
-# Título do jogo
+---
+title: Título do Jogo
+subject: Interagindo com Números e Funções
+---
 
 Breve descrição do jogo...
 

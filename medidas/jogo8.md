@@ -1,4 +1,7 @@
-# Título do jogo
+---
+title: Título do Jogo
+subject: Vivenciando as Medidas
+---
 
 Breve descrição do jogo...
 

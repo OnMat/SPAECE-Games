@@ -1,4 +1,7 @@
-# Título do jogo
+---
+title: Título do Jogo
+subject: Tratamento da Informação
+---
 
 Breve descrição do jogo...
 

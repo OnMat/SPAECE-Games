@@ -4,7 +4,7 @@ project:
   id: ab22083f-5871-4237-95e1-c2006f9feea5
 
   title: SPAECE Games
-  subject: SPAECE Games
+  subject: Início
   description: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
   license: MIT
 
@@ -16,12 +16,6 @@ project:
     
   github: https://github.com/OnMat/SPAECE-Games
   
-  plugins:
-    - src/xref.mjs
-    - src/landing-page.mjs
-    - src/directives.mjs
-    - src/admonition.mjs
-
   toc:
     - file: index.md
     - file: orientacoes.md

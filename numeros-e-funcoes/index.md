@@ -1,4 +1,8 @@
-# Interagindo com Números e Funções
+---
+title: Interagindo com Números e Funções
+subject: Jogos
+---
+
 
 In this tutorial, we'll cover the basics of the Jupyter Book ecosystem, and step you through creating, building, and publishing your first book.
 

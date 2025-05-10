@@ -1,4 +1,8 @@
-# Sobre
+---
+title: Sobre
+subject: SPAECE Games
+---
+
 
 ## Autora
 
