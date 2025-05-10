@@ -2,7 +2,7 @@
 
 ## Autora
 
-Prof.ª Anna Beatriz
+Prof.ª Anna Beatriz Bezerra Rodrigues Alves de Oliveira
 
 ## Como citar
 
