@@ -39,7 +39,6 @@ project:
         - file: geometria/monte-seu-triangulo.md
         - file: geometria/desenho-direcionado.md
         - file: geometria/batalha-naval-cartesiana.md
-    - file: agradecimentos.md
     - file: sobre.md
 
   exclude:
