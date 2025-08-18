@@ -19,28 +19,27 @@ project:
   toc:
     - file: index.md
     - file: orientacoes.md
-    - file: jogos.md
+    - file: numeros-e-funcoes/index.md
       children:
-        - file: numeros-e-funcoes/index.md
-          children:
-            - file: numeros-e-funcoes/jogo1.md
-            - file: numeros-e-funcoes/jogo2.md
-            - file: numeros-e-funcoes/jogo3.md
-        - file: geometria/index.md
-          children:
-            - file: geometria/jogo4.md
-            - file: geometria/jogo5.md
-        - file: medidas/index.md
-          children:
-            - file: medidas/jogo6.md
-            - file: medidas/jogo7.md
-            - file: medidas/jogo8.md
-            - file: medidas/jogo9.md
-        - file: informacao/index.md
-          children:
-            - file: informacao/jogo10.md
-            - file: informacao/jogo11.md
-            - file: informacao/jogo12.md
+      # 16
+        - file: numeros-e-funcoes/domino-dos-racionais.md
+        - file: numeros-e-funcoes/jogo-da-memoria-dos-racionais.md
+      # 19
+        - file: numeros-e-funcoes/trilha-dos-juros-simples.md
+      # 20
+        - file: numeros-e-funcoes/batalha-dos-investidores.md
+      # 42
+        - file: numeros-e-funcoes/missao-probabilidade.md
+    - file: geometria/index.md
+      children:
+        - file: geometria/corrida-das-semelhancas.md
+        - file: geometria/pitagotrilha.md
+        - file: geometria/cara-a-cara-dos-poligonos.md
+        - file: geometria/planificacao.md
+        - file: geometria/monte-seu-triangulo.md
+        - file: geometria/desenho-direcionado.md
+        - file: geometria/batalha-naval-cartesiana.md
+    - file: agradecimentos.md
     - file: sobre.md
 
   exclude:

@@ -4,13 +4,4 @@ subject: Jogos
 ---
 
 
-In this tutorial, we'll cover the basics of the Jupyter Book ecosystem, and step you through creating, building, and publishing your first book.
-
-:::{admonition} A note for Windows users
-:class: warning
-
-Não esqueça de...
-:::
-
-Confira os jogos desta seção a seguir.
-
+Interagir com números e funções é fundamental para compreender e aplicar a matemática no cotidiano. Os números permitem representar quantidades, medidas e relações, enquanto as funções descrevem como uma grandeza depende de outra, revelando padrões e possibilitando previsões. Ao explorar essas ideias, desenvolvemos o raciocínio lógico, resolvemos problemas práticos e entendemos melhor fenômenos em diversas áreas, como ciência, tecnologia e economia.
