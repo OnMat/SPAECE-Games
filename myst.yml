@@ -50,7 +50,7 @@ site:
   options:
     style: public/style.css
     logo: public/logo.svg
-    folders: true
+    folders: false
   actions:
     - title: GitHub
       url: https://github.com/OnMat/SPAECE-Games
