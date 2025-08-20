@@ -56,4 +56,12 @@ Interagir com números e funções é fundamental para compreender e aplicar a m
 :width: 100%
 ```
 :::
+
+:::{card}
+:link: ./escape-room-dos-polinomios.md
+:header: **Escape Room dos Polinômios**
+```{image} ./escape-room-dos-polinomios/thumb.png
+:width: 100%
+```
+:::
 ::::

@@ -28,6 +28,8 @@ project:
         - file: numeros-e-funcoes/trilha-dos-juros-simples.md
       # 20
         - file: numeros-e-funcoes/batalha-dos-investidores.md
+      # 24
+        - file: numeros-e-funcoes/escape-room-dos-polinomios.md
       # 40
         - file: numeros-e-funcoes/trinca-dos-polinomios.md
       # 42
