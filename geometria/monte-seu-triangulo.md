@@ -33,6 +33,8 @@ Montar triângulos a partir de coordenadas sorteadas e calcular corretamente sua
 * Fichas com os planos cartesianos.
 * Caneta, lápis ou marcador.
 
+[![](https://badgen.net/badge/Download/ZIP)](./monte-seu-triangulo/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

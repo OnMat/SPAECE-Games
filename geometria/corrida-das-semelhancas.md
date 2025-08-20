@@ -40,6 +40,8 @@ maior número de pares semelhantes corretamente.
 
 * Conjunto de peças com diversas figuras planas, formando pares semelhantes em tamanhos diferentes.
 
+[![](https://badgen.net/badge/Download/ZIP)](./corrida-das-semelhancas/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

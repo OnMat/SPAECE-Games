@@ -41,6 +41,8 @@ O investidor que ao final da rodada obtiver maior montante ganha.
 * Dado Bônus (O aluno pode ao final do cálculo, se correto, escolher jogar o dado bônus)
 * Calculadora (opcional, com penalidade).
 
+[![](https://badgen.net/badge/Download/ZIP)](./batalha-dos-investidores/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

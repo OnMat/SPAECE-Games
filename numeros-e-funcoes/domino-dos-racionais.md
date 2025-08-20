@@ -40,6 +40,8 @@ Sugerir aos jogadores que antes de iniciar a partida eles terão um tempo para f
 
 ## Materiais necessários
 
+[![](https://badgen.net/badge/Download/ZIP)](./domino-dos-racionais/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

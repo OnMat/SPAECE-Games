@@ -61,6 +61,8 @@ Você pode decidir aleatoriamente quem começa.
 
 * Baralho com 40 cartas de eventos de probabilidade + 4 cartas especiais.
 
+[![](https://badgen.net/badge/Download/ZIP)](./missao-probabilidade/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

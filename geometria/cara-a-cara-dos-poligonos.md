@@ -23,10 +23,11 @@ Descobrir qual polígono o adversário escolheu fazendo perguntas com base nas p
 3. Com base nas respostas, vão descartando as figuras que não se encaixam.
 4. Quem adivinhar primeiro o polígono do colega, vence a partida.
 
-
 ## Materiais necessários
 
 * 1 Tabuleiro impresso por aluno.
+
+[![](https://badgen.net/badge/Download/ZIP)](./cara-a-cara-dos-poligonos/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

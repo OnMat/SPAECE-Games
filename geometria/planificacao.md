@@ -34,6 +34,8 @@ Imprimir as planificações em folhas com gramatura maior e coloridas, ou o alun
 * Linha (tipo barbante fino ou linha de crochê)
 * Régua e lápis
 
+[![](https://badgen.net/badge/Download/ZIP)](./planificacao/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}

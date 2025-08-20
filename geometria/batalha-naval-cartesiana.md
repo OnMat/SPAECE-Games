@@ -50,6 +50,8 @@ simultaneamente.
 * 1 mapa de batalha para cada jogador.
 * Caneta, lápis ou marcador.
 
+[![](https://badgen.net/badge/Download/ZIP)](./batalha-naval-cartesiana/tudo.zip)
+
 ::::{grid} 1 1 2 3
 
 :::{card}
