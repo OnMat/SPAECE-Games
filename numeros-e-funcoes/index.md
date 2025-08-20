@@ -8,6 +8,15 @@ Interagir com números e funções é fundamental para compreender e aplicar a m
 
 ::::{grid} 1 1 2 3
 
+
+:::{card}
+:link: ./trinca-dos-polinomios.md
+:header: **Trinca dos Polinômios**
+```{image} ./trinca-dos-polinomios/thumb.png
+:width: 100%
+```
+:::
+
 :::{card}
 :link: ./batalha-dos-investidores.md
 :header: **Batalha dos Investidores**

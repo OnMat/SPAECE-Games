@@ -28,6 +28,8 @@ project:
         - file: numeros-e-funcoes/trilha-dos-juros-simples.md
       # 20
         - file: numeros-e-funcoes/batalha-dos-investidores.md
+      # 40
+        - file: numeros-e-funcoes/trinca-dos-polinomios.md
       # 42
         - file: numeros-e-funcoes/missao-probabilidade.md
     - file: geometria/index.md
@@ -37,7 +39,6 @@ project:
         - file: geometria/cara-a-cara-dos-poligonos.md
         - file: geometria/planificacao.md
         - file: geometria/monte-seu-triangulo.md
-        - file: geometria/desenho-direcionado.md
         - file: geometria/batalha-naval-cartesiana.md
     - file: sobre.md
 

@@ -32,14 +32,6 @@ Com a Geometria, aprendemos a perceber formas, espaços e proporções presentes
 :::
 
 :::{card}
-:link: ./desenho-direcionado.md
-:header: **Desenho Direcionado**
-```{image} ./desenho-direcionado/thumb.png
-:width: 100%
-```
-:::
-
-:::{card}
 :link: ./monte-seu-triangulo.md
 :header: **Monte seu Triângulo**
 ```{image} ./monte-seu-triangulo/thumb.png
