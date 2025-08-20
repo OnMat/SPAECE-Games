@@ -64,4 +64,20 @@ Interagir com números e funções é fundamental para compreender e aplicar a m
 :width: 100%
 ```
 :::
+
+:::{card}
+:link: ./dados-das-funcoes.md
+:header: **Dados das Funções**
+```{image} ./dados-das-funcoes/thumb.png
+:width: 100%
+```
+:::
+
+:::{card}
+:link: ./teatro-das-retas.md
+:header: **Teatro das Retas**
+```{image} ./teatro-das-retas/thumb.png
+:width: 100%
+```
+:::
 ::::

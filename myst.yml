@@ -21,19 +21,15 @@ project:
     - file: orientacoes.md
     - file: numeros-e-funcoes/index.md
       children:
-      # 16
         - file: numeros-e-funcoes/domino-dos-racionais.md
         - file: numeros-e-funcoes/jogo-da-memoria-dos-racionais.md
-      # 19
         - file: numeros-e-funcoes/trilha-dos-juros-simples.md
-      # 20
         - file: numeros-e-funcoes/batalha-dos-investidores.md
-      # 24
         - file: numeros-e-funcoes/escape-room-dos-polinomios.md
-      # 40
         - file: numeros-e-funcoes/trinca-dos-polinomios.md
-      # 42
         - file: numeros-e-funcoes/missao-probabilidade.md
+        - file: numeros-e-funcoes/teatro-das-retas.md
+        - file: numeros-e-funcoes/dados-das-funcoes.md
     - file: geometria/index.md
       children:
         - file: geometria/corrida-das-semelhancas.md
