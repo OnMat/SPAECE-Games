@@ -26,13 +26,6 @@ O jogador que formar 2 trincas completas primeiro vence o jogo.
 
 ## Como jogar
 
-### Início do Jogo
-
-* Cada jogador/equipe lança os três dados.
-* Coletam as informações obtidas (capital, taxa e tempo).
-
-### Jogo
-
 ### Preparação
 
 * Embaralhe todas as cartas de polinômios, fatores, raízes e ação e distribua 7 cartas para cada jogador.
