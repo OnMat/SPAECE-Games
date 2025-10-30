@@ -1,5 +1,5 @@
 ---
-title: Batalha Naval Cartesiana
+title: Batalha Cartesiana
 subject: Geometria
 ---
 
@@ -50,13 +50,13 @@ simultaneamente.
 * 1 mapa de batalha para cada jogador.
 * Caneta, lápis ou marcador.
 
-[![](https://badgen.net/badge/Download/ZIP)](./batalha-naval-cartesiana/tudo.zip)
+[![](https://badgen.net/badge/Download/ZIP)](./batalha-cartesiana/tudo.zip)
 
 ::::{grid} 1 1 2 3
 
 :::{card}
-:link: ./batalha-naval-cartesiana/anexo1.pdf
-```{image} ./batalha-naval-cartesiana/anexo1.png
+:link: ./batalha-cartesiana/anexo1.pdf
+```{image} ./batalha-cartesiana/anexo1.png
 :width: 500px
 ```
 :::

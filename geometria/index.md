@@ -8,9 +8,9 @@ Com a Geometria, aprendemos a perceber formas, espaços e proporções presentes
 ::::{grid} 1 1 2 3
 
 :::{card}
-:link: ./batalha-naval-cartesiana.md
-:header: **Batalha Naval Cartesiana**
-```{image} ./batalha-naval-cartesiana/thumb.png
+:link: ./batalha-cartesiana.md
+:header: **Batalha Cartesiana**
+```{image} ./batalha-cartesiana/thumb.png
 :width: 100%
 ```
 :::

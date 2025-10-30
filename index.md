@@ -10,9 +10,9 @@ Esta página contém o produto da dissertação *Jogos concretos de baixo custo 
 ::::{grid} 1 1 2 3
 
 :::{card}
-:link: ./geometria/batalha-naval-cartesiana.md
-:header: **Batalha Naval Cartesiana**
-```{image} ./geometria/batalha-naval-cartesiana/thumb.png
+:link: ./geometria/batalha-cartesiana.md
+:header: **Batalha Cartesiana**
+```{image} ./geometria/batalha-cartesiana/thumb.png
 :width: 100%
 ```
 :::

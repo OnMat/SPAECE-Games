@@ -37,7 +37,7 @@ project:
         - file: geometria/cara-a-cara-dos-poligonos.md
         - file: geometria/planificacao.md
         - file: geometria/monte-seu-triangulo.md
-        - file: geometria/batalha-naval-cartesiana.md
+        - file: geometria/batalha-cartesiana.md
     - file: sobre.md
 
   exclude:
