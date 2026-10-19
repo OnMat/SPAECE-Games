@@ -52,7 +52,7 @@ Cada dica tem que ser impressa na quantidade que dê para cada equipe pegar. Exe
 
 ## Materiais necessários
 
-[![](https://badgen.net/badge/Download/ZIP)](./escape-room-dos-polinomios/tudo.zip)
+[![](../public/download-zip.svg)](./escape-room-dos-polinomios/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

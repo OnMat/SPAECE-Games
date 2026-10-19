@@ -1,0 +1,53 @@
+jtex: v1
+kind: typst
+title: SPAECE Games (livro)
+description: Livro em Typst para os produtos PROFMAT/UFCA, derivado do plain_typst_book
+template: template.typ
+
+files:
+  - template.typ
+  - style.typ
+  - aside_style.typ
+  - LICENSE
+
+license: MIT
+doc:
+  - id: title
+    required: true
+  - id: authors
+    required: true
+  - id: subtitle
+
+options:
+  - id: advisor
+    type: string
+    description: Nome do orientador, exibido na capa
+  - id: institution
+    type: string
+    description: Instituição, exibida na capa
+  - id: program
+    type: string
+    description: Programa de pós-graduação, exibido na capa
+  - id: place
+    type: string
+  - id: year
+    type: string
+  - id: logo
+    type: file
+    description: Logo no topo da capa
+  - id: cover
+    type: file
+    description: Imagem central da capa
+  - id: cover_width
+    type: number
+  - id: ToC_depth
+    type: number
+  - id: site_url
+    type: string
+    description: Endereço do site publicado (com / no final); links para anexos e ZIPs apontam para ele
+  - id: papersize
+    type: string
+  - id: fontsize
+    type: number
+
+parts: []

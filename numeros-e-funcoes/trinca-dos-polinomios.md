@@ -67,7 +67,7 @@ Para completar uma trinca, o jogador precisa ter em sua mão as cartas corretas 
     - 2 de Ajuda: Ajuda do professor para verificar o jogo.
 * Cartas coringa (3 cartas): Carta que pode substituir qualquer outra.
 
-[![](https://badgen.net/badge/Download/ZIP)](./trinca-dos-polinomios/tudo.zip)
+[![](../public/download-zip.svg)](./trinca-dos-polinomios/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

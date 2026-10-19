@@ -44,7 +44,7 @@ O jogo "Teatro das Retas" tem como objetivo auxiliar os alunos na compreensão d
 * Cartões com diferentes valores de xxx para serem distribuídos aos alunos.
 * Tabela ou quadro para registro dos pontos de cada equipe.
 
-[![](https://badgen.net/badge/Download/ZIP)](./teatro-das-retas/tudo.zip)
+[![](../public/download-zip.svg)](./teatro-das-retas/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

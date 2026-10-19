@@ -33,7 +33,7 @@ Indicado para 4 jogadores individuais ou 4 grupos.
 
 ## Materiais necessários
 
-[![](https://badgen.net/badge/Download/ZIP)](./trilha-dos-juros-simples/tudo.zip)
+[![](../public/download-zip.svg)](./trilha-dos-juros-simples/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

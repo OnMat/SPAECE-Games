@@ -32,7 +32,7 @@ Avançar pelas casas da trilha resolvendo corretamente problemas envolvendo o Te
 * Marcadores;
 * Fichas com problemas.
 
-[![](https://badgen.net/badge/Download/ZIP)](./pitagotrilha/tudo.zip)
+[![](../public/download-zip.svg)](./pitagotrilha/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

@@ -38,7 +38,7 @@ Você pode decidir aleatoriamente quem começa.
 
 ## Materiais necessários
 
-[![](https://badgen.net/badge/Download/ZIP)](./jogo-da-memoria-dos-racionais/tudo.zip)
+[![](../public/download-zip.svg)](./jogo-da-memoria-dos-racionais/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

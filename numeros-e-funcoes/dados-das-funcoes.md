@@ -50,7 +50,7 @@ Colocar duas bexigas (uma para cada equipe), o aluno termina de desenhar o plano
 * Um dado para os coeficientes lineares .
 * Tabela de chaves para a competição
 
-[![](https://badgen.net/badge/Download/ZIP)](./dados-das-funcoes/tudo.zip)
+[![](../public/download-zip.svg)](./dados-das-funcoes/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

@@ -50,7 +50,7 @@ simultaneamente.
 * 1 mapa de batalha para cada jogador.
 * Caneta, lápis ou marcador.
 
-[![](https://badgen.net/badge/Download/ZIP)](./batalha-cartesiana/tudo.zip)
+[![](../public/download-zip.svg)](./batalha-cartesiana/tudo.zip)
 
 ::::{grid} 1 1 2 3
 

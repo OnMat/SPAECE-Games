@@ -27,7 +27,7 @@ Descobrir qual polígono o adversário escolheu fazendo perguntas com base nas p
 
 * 1 Tabuleiro impresso por aluno.
 
-[![](https://badgen.net/badge/Download/ZIP)](./cara-a-cara-dos-poligonos/tudo.zip)
+[![](../public/download-zip.svg)](./cara-a-cara-dos-poligonos/tudo.zip)
 
 ::::{grid} 1 1 2 3
 
