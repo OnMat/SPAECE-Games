@@ -1,7 +1,7 @@
 jtex: v1
 kind: typst
-title: SPAECE Games (livro)
-description: Livro em Typst para os produtos PROFMAT/UFCA, derivado do plain_typst_book
+title: Plain Typst Book
+description: Easily create beautiful books in Typst
 template: template.typ
 
 files:
@@ -9,45 +9,151 @@ files:
   - style.typ
   - aside_style.typ
   - LICENSE
-
+  
+authors:
+  - name: Freek Pols
+    github: FreekPols
+    affiliations:
+      - Delft University of Technology
+  - name: Luuk Fröling
+    github: luukfroling
+    affiliations:
+      - Delft University of Technology
+version: 0.1.0
 license: MIT
+tags:
+  - book
+# thumbnail: ./examples/pixels/files/screenshot.png
+github: https://github.com/myst-templates/plain_typst_book
 doc:
   - id: title
     required: true
   - id: authors
     required: true
   - id: subtitle
+  - id: short_title
+  - id: open_access
+  - id: keywords
+  - id: doi
+  - id: venue
 
 options:
-  - id: advisor
+  - id: kind
     type: string
-    description: Nome do orientador, exibido na capa
-  - id: institution
-    type: string
-    description: Instituição, exibida na capa
-  - id: program
-    type: string
-    description: Programa de pós-graduação, exibido na capa
-  - id: place
-    type: string
-  - id: year
-    type: string
-  - id: logo
-    type: file
-    description: Logo no topo da capa
+    description: The "kind" of the content, e.g. "Original Research" - shown as the title of the margin content on the first page
+
+
+# Include a figure at the cover page
   - id: cover
     type: file
-    description: Imagem central da capa
+    description: An image path that is shown in the front page
+  - id: background
+    type: file
+    description: imagem de fundo de todas as páginas, exceto a capa
+  - id: coverposition
+    type: number
+    description: Sets the vertical position of the cover 
+  - id: bibliography_file
+    type: file
+    description: arquivo .bib usado diretamente na lista de referências
+  - id: cover_top
+    type: string
+    description: "texto sobreposto no topo da capa"
+  - id: cover_top_y
+    type: number
+    description: posição vertical do texto do topo, em % da altura
+  - id: cover_note2
+    type: string
+    description: "segunda linha sobreposta no pé da capa"
+  - id: cover_note
+    type: string
+    description: "linha de texto sobreposta à capa, por exemplo o orientador"
+  - id: cover_note_x
+    type: number
+    description: posição horizontal da linha sobreposta, em % da largura
+  - id: cover_note_y
+    type: number
+    description: posição vertical da linha sobreposta, em % da altura
   - id: cover_width
     type: number
+    description: Sets the width of the coverfigure
+
+
+# ToC
+  - id: numbering_depth
+    type: number
+    description: numera os títulos só até este nível (sem a opção, numera todos)
   - id: ToC_depth
     type: number
-  - id: site_url
-    type: string
-    description: Endereço do site publicado (com / no final); links para anexos e ZIPs apontam para ele
+    description: number to set the depth of ToC
+  - id: show_ToC
+    type: boolean
+    description: show ToC (default 1)
+
+# Page settings
+  - id: logo
+    type: file
+    description: An image path that is shown in the top right of the page
+  - id: logo_width
+    type: number
+    description: sets width of logo
   - id: papersize
     type: string
+    description: sets papersize
+  - id: show_pagenumber
+    type: boolean
+    description: shows page number (default 1)
+
+
+  # font
+  - id: fontstyle
+    type: string
+    description: sets the font
   - id: fontsize
     type: number
+    description: sets the fontsize
+  - id: margin_left
+    type: number
+    description: sets margin left (in cm)
+  - id: margin_right
+    type: number
+    description: sets margin right (in cm)
+  - id: margin_top
+    type: number
+    description: sets margin top (in cm)
+  - id: margin_bottom
+    type: number
+    description: sets  margin bottom (in cm)
+  - id: linespacing
+    type: number
+    description: sets the linespancing (default 0.5 (em))
+  - id: justification
+    type: boolean
+    description: sets the justifcation 
+
+ # theme style
+  - id: colortheme
+    type: string
+    description: theme color 
+  - id: colorheadings
+    type: string
+    description: color of the headings
+
+# preface
+  - id: preface
+    type: string
+    description: a preface which is not included online
+  - id: preface_place
+    type: string
+    description: local exibido na assinatura do prefácio
+  - id: preface_date
+    type: string
+    description: data exibida na assinatura do prefácio
+  - id: preface_acknowledgments
+    type: string
+    description: texto da subseção Agradecimentos, exibida dentro do prefácio
+  - id: preface_signature
+    type: string
+    description: nome exibido na assinatura do prefácio
 
 parts: []

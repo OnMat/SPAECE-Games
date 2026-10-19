@@ -6,10 +6,12 @@ project:
   title: SPAECE Games
   subject: Início
   description: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
-  license: MIT
 
   authors:
     - name: Anna Beatriz Bezerra Rodrigues Alves
+      affiliation: Universidade Federal do Cariri
+
+  license: MIT
 
   keywords:
     - SPAECE
@@ -43,34 +45,22 @@ project:
         - file: geometria/batalha-cartesiana.md
     - file: sobre.md
 
-  plugins:
-    - template/pdf-cards.mjs
-
   exclude:
     - README.md
     - LICENSE
+    - capa/**
+    - previas/**
     - template/**
 
-  downloads:
-    - id: spaece-games-pdf
-      title: Baixar PDF
+  bibliography:
+    - referencias.bib
 
-  exports:
-    - id: spaece-games-pdf
-      format: typst
-      template: template
-      output: exports/spaece-games.pdf
-      subtitle: Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
-      advisor: Prof. Dr. Vicente Helano Feitosa Batista Sobrinho
-      institution: Universidade Federal do Cariri
-      program: Mestrado Profissional em Matemática em Rede Nacional (PROFMAT)
-      place: Juazeiro do Norte
-      year: "2025"
-      logo: public/logo.svg
-      cover: template/capa.jpg
-      cover_width: 15
-      ToC_depth: 2
-      site_url: https://onmat.github.io/SPAECE-Games/
+  # Ajusta os cards de materiais para o PDF (só atua em `myst build --pdf`)
+  plugins:
+    - template/pdf-cards.mjs
+
+extends:
+  - export.yml
 
 site:
   template: book-theme
@@ -78,6 +68,7 @@ site:
     style: public/style.css
     logo: public/logo.svg
     folders: false
+    hide_authors: true
   actions:
   #   favicon: favicon.ico
     - title: GitHub Repo
@@ -85,4 +76,4 @@ site:
     - title: Feedback
       url: https://github.com/OnMat/SPAECE-Games/issues
     - title: Download PDF
-      url: ./exports/spaece-games.pdf
+      url: ./exports/SPAECE-Games.pdf

@@ -3,11 +3,14 @@ title: Sobre
 subject: SPAECE Games
 ---
 
-O Guia: da aposta ao investimento é o produto educacional da dissertação de mestrado de Tales Souza da Rocha no
+Este trabalho é o produto educacional da dissertação de mestrado de Anna Beatriz Bezerra Rodrigues Alves no
 PROFMAT da Universidade Federal do Cariri.
 
-**.
-Colocar resumo...
+## A dissertação
+
+*Jogos concretos de baixo custo alinhados a descritores de matemática do SPAECE*
+
+Este trabalho explora o potencial dos jogos para o ensino de matemática, tomando como base a matriz de referência do SPAECE. Propõe-se a utilização de jogos de baixo custo como ferramentas pedagógicas, elaborados com materiais acessíveis, compatíveis com a realidade de parte das escolas públicas brasileiras. Esses jogos abordam descritores críticos do SPAECE nos quais os alunos apresentam, historicamente, baixo desempenho, oferecendo uma abordagem de ensino alternativa, lúdica e envolvente. O principal resultado deste trabalho consiste em uma coleção de jogos concretos, disponibilizada publicamente, destinada a apoiar e fortalecer o ensino de matemática em diferentes contextos educacionais. 
 
 *Link para o PDF a ser incluído após o depósito.*
 

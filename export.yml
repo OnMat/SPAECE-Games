@@ -1,0 +1,93 @@
+version: 1
+project:
+
+  downloads:
+    - id: output-pdf
+      title: SPAECE Games (PDF)
+
+  exports:
+    - id: output-pdf
+      format: typst
+      template: ./template
+      output: ./exports/SPAECE-Games.pdf
+      articles:
+        - orientacoes.md
+        - numeros-e-funcoes/domino-dos-racionais.md
+        - numeros-e-funcoes/jogo-da-memoria-dos-racionais.md
+        - numeros-e-funcoes/trilha-dos-juros-simples.md
+        - numeros-e-funcoes/batalha-dos-investidores.md
+        - numeros-e-funcoes/escape-room-dos-polinomios.md
+        - numeros-e-funcoes/trinca-dos-polinomios.md
+        - numeros-e-funcoes/missao-probabilidade.md
+        - numeros-e-funcoes/teatro-das-retas.md
+        - numeros-e-funcoes/dados-das-funcoes.md
+        - geometria/corrida-das-semelhancas.md
+        - geometria/pitagotrilha.md
+        - geometria/cara-a-cara-dos-poligonos.md
+        - geometria/planificacao.md
+        - geometria/monte-seu-triangulo.md
+        - geometria/batalha-cartesiana.md
+# additional options #
+
+# Capa (imagem de página inteira, gerada a partir de capa/capa.typ)
+      cover: public/capa.png
+      coverposition: 0  #in cm from title
+      cover_width: 21 #in cm
+
+# Imagem de fundo (todas as páginas, exceto a capa)
+      background: public/fundo.png
+
+# Referências: usa o .bib original, preservando teses e "Acesso em"
+      bibliography_file: referencias.bib
+
+# ToC
+      ToC_depth: 1
+      show_ToC: true
+      # numera só até o 2º nível (sem "2.3.1 Preparação")
+      numbering_depth: 2
+
+# Page settings
+      papersize: a4
+      # margens ABNT (NBR 14724): superior e esquerda 3 cm, inferior e direita 2 cm
+      margin_top: 3 #cm
+      margin_bottom: 2 #cm
+      margin_left: 3 #cm
+      margin_right: 2 #cm
+      show_pagenumber: true
+
+      #### Fonts
+      fontsize: 12
+      fontstyle:
+      linespacing: .5
+      justification: true
+
+      #### Theme
+      colortheme: rgb("#1F6F66")
+      colorheadings: rgb("#1F6F66")
+
+# Prefácio (não aparece no site, só no PDF)
+      preface_place: Juazeiro do Norte, CE, Brasil
+      preface_date: agosto de 2025
+      preface_signature: Anna Beatriz Bezerra Rodrigues Alves
+      preface: |
+        Embora seja essencial para o desenvolvimento do pensamento lógico e para a compreensão do mundo, a matemática ainda é um grande desafio para alunos e professores da escola pública. No Ceará, os resultados do SPAECE mostram que o desempenho em matemática cai ao longo da educação básica e é mais baixo justamente na 3ª série do ensino médio, uma etapa que costuma receber um ensino mais conteudista e voltado apenas à preparação para exames.
+
+        Este material contém o produto educacional da dissertação “Jogos concretos de baixo custo alinhados a descritores de matemática do SPAECE”, apresentada ao Programa de Pós-Graduação em Matemática em Rede Nacional da Universidade Federal do Cariri. O produto é uma coleção de quinze jogos concretos, construídos com materiais acessíveis e de fácil reprodução, pensados para a realidade das escolas públicas.
+
+        Cada jogo está articulado a pelo menos um descritor da matriz de referência do SPAECE, com atenção especial aos descritores em que os estudantes historicamente apresentam mais dificuldade: números racionais, juros simples e compostos, polinômios, funções, probabilidade, semelhança, relações métricas, polígonos, planificações e plano cartesiano. Parte da coleção foi aplicada em turmas da 3ª série do ensino médio da rede estadual, com sinais claros de maior participação dos estudantes e de melhor compreensão dos conteúdos.
+
+        O material começa com orientações gerais e, em seguida, apresenta os quinze jogos, primeiro os de Números e Funções e depois os de Geometria. Para cada jogo, há o descritor trabalhado, o objetivo, as regras, sugestões de variações e as miniaturas dos materiais para impressão, que podem ser baixados pelos links deste PDF ou no site da coleção.
+
+        Esperamos que estes jogos possam ser adaptados à realidade de cada turma e que o professor, como mediador, encontre neles uma forma de tornar a matemática mais acessível, significativa e envolvente para os estudantes.
+      preface_acknowledgments: |
+        A Deus, por ser meu sustento em cada desafio e minha luz nos momentos de incerteza. Pela força que me conduziu até aqui, mesmo quando pensei em desistir.
+
+        À minha mãe, por ser meu porto seguro em todas as fases da vida. Seu apoio, incentivo e amor incondicional foram fundamentais para que eu pudesse trilhar esse caminho com coragem e esperança.
+
+        Às minhas filhas, Anna Júlia e Anna Louise, por me motivarem diariamente a ser uma mulher mais forte, mais dedicada e mais determinada. Cada conquista é por e para vocês.
+
+        Ao meu orientador, Vicente Helano, pelo acompanhamento nesta etapa da minha formação.
+
+        À Jeniffer Cabral, por ter sido mais do que uma colega, um verdadeiro apoio em meio aos momentos de cansaço e incerteza. Sua escuta, incentivo e presença foram fundamentais para que eu não desistisse e seguisse até o fim. Serei eternamente grata.
+
+        A todos que, direta ou indiretamente, contribuíram para a realização deste trabalho, meu sincero agradecimento.
