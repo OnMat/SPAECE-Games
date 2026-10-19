@@ -17,8 +17,10 @@
   box(stroke: 0.8pt + luma(205), inset: 3mm, fill: white,
     image("mosaico.jpg", width: 150mm)))
 
-#place(bottom + center, dy: -26mm, block(width: 165mm, align(center)[
+#place(bottom + center, dy: -22mm, block(width: 165mm, align(center)[
   #text(14pt, fill: marrom)[Anna Beatriz Bezerra Rodrigues Alves]
+  #v(2mm)
+  #text(12pt, fill: marrom.lighten(20%))[Orientador: Prof. Dr. Vicente Helano F. Batista Sobrinho]
   #v(2mm)
   #text(11pt, fill: marrom.lighten(35%))[PROFMAT · Universidade Federal do Cariri · 2025]
 ]))
