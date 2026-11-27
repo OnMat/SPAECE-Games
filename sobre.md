@@ -20,7 +20,7 @@ Este site foi desenvolvido utilizando Jupyter Notebook, versão 2.0, e estrutura
 
 ## Licença e citação
 
-O material é distribuído sob licença Creative Commons Atribuição 1.0. Pode
+O material é distribuído sob licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Pode
 ser copiado, impresso, adaptado e usado em sala de aula, inclusive com modificações,
 desde que citada a fonte.
 
