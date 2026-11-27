@@ -1,0 +1,37 @@
+{
+  "title": "SPAECE Games: jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE",
+  "upload_type": "lesson",
+  "description": "<p>Coleção de quinze jogos concretos de baixo custo para o ensino de matemática na 3ª série do ensino médio, cada um alinhado a pelo menos um descritor da matriz de referência de matemática do Sistema Permanente de Avaliação da Educação Básica do Ceará (SPAECE). Para cada jogo, o material traz o descritor trabalhado, o objetivo, as regras, sugestões de variação e os arquivos para impressão.</p><p>Produto educacional da dissertação <em>Jogos concretos de baixo custo alinhados a descritores de matemática do SPAECE</em>, apresentada ao Mestrado Profissional em Matemática em Rede Nacional (PROFMAT) da Universidade Federal do Cariri (UFCA). Versão on-line: <a href=\"https://onmat.github.io/SPAECE-Games/\">https://onmat.github.io/SPAECE-Games/</a>.</p>",
+  "creators": [
+    {
+      "name": "Alves, Anna Beatriz Bezerra Rodrigues",
+      "affiliation": "Universidade Federal do Cariri"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Batista Sobrinho, Vicente Helano Feitosa",
+      "affiliation": "Universidade Federal do Cariri",
+      "type": "Supervisor"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "por",
+  "version": "1.0.0",
+  "keywords": [
+    "SPAECE",
+    "jogos no ensino de matemática",
+    "material concreto",
+    "ensino médio",
+    "produto educacional",
+    "PROFMAT"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://onmat.github.io/SPAECE-Games/",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    }
+  ]
+}
