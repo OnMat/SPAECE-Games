@@ -24,7 +24,24 @@ O material é distribuído sob licença Creative Commons Atribuição 4.0 Intern
 ser copiado, impresso, adaptado e usado em sala de aula, inclusive com modificações,
 desde que citada a fonte.
 
-Para citar o trabalho, fazer referência a:
+Para citar este produto educacional:
+
+> ALVES, Anna Beatriz Bezerra Rodrigues. **SPAECE Games**: jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE. Versão 1.0.0. [S. l.]: Zenodo, 2026. DOI: [10.5281/zenodo.24613337](https://doi.org/10.5281/zenodo.24613337).
+
+Em BibLaTeX:
+
+```{code-cell} bibtex
+@software{AnnaBeatriz2026,
+  author    = "Anna Beatriz Bezerra Rodrigues Alves",
+  title     = "SPAECE Games: jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE",
+  version   = "1.0.0",
+  publisher = "Zenodo",
+  year      = "2026",
+  doi       = "10.5281/zenodo.24613337"
+}
+```
+
+Para citar a dissertação:
 
 ```{code-cell} bibtex
 @mastersthesis{AnnaBeatriz2025a,
