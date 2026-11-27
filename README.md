@@ -1,4 +1,7 @@
 # SPAECE-Games
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24613337.svg)](https://doi.org/10.5281/zenodo.24613337)
+
 Jogos concretos de baixo custo alinhados aos descritores de matemática do SPAECE
 
 ## Site
